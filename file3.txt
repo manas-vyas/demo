@@ -1,1 +1,114 @@
-this is three
+this is threAs a DevOps Engineer, I have good knowledge and extensive experience in
+utilizing a wide range of DevOpstoolssuch asJenkins, Terraform, Git,
+Ansible, Docker, Kubernetes, Grafana, and Nagios. I have used these tools
+effectively to streamline workflows, improve automation, and ensure
+seamless deployment and monitoring of applications.
+03/2022 – present
+Pune, India
+•Client Name: All Care Therapies(Catsol)
+Client Overview: All Care Therapiesis a premier Southern Californiabased, tech-enabled rehab company and a leading staffing provider of
+Physical, Occupational, and Speech Therapy services.
+Project Description:
+•Engaged with Catsol to conduct an in-depth analysis of their account,
+leading to the implementation of effective cost-cutting measures.
+•Optimized instance sizesto ensure efficient resource utilization.
+•Set up Data Lifecycle Manager (DLM) for data archiving and deletion,
+streamlining storage costs.
+•Leveraged cost-saving plans and strategically switched to more costeffective EBS types, resulting in substantialsavingsfor the client.
+•Set up a monitoring dashboard with AWS CloudWatch for AWS Services
+with custom metrics.
+•Set up notification alertsfor theirservers using AWS Cloud Watch and
+SNS.
+•Set up auto-scheduled start and stop servers using AWS Lambda and
+AWS Event Bridge with email alerts.
+•Set up automation for database full and differential backup in AWS S3.
+•Set up disaster recovery.
+•Client Name: Reactore
+Client Overview: Reactore, headquartered in Cape Town, is a rapidly
+growing, innovative multinationalsoftware product company specializing
+in digitalization solutionsfor enterprises worldwide. Their flagship
+products are Devum® and MineOne®.
+Project Description:
+Tejas Acharekar
+Indian 09892554447 tejasa@epiqinfo.com
+502, Fifth Floor, Amanora Chambers, Pune 411028, India 11/12/1993
+linkedin.com/in/tejas-acharekar
+tejasa@epiqinfo.com 1 / 4
+•Analyzed AWS cloud spending and usage for the past 6 monthsto
+identify optimization opportunities.
+•Modified EKS configuration to use self-managed node group, and
+updated node group to utilize low-cost EC2 instances.
+•Analyzed EBS volume usage pattern, and updated node group to utilize
+optimized and reduced volume.
+•Modified EKS configuration to use auto scaler, which reduced EC2
+spending.
+•As per the usage setup S3 life cycle policy, which reduced S3 costs.
+•Modified RDS volume and instance family to optimize with usage, which
+reduced RDS cost.
+Key Results:
+•Reduced EBS spending by 90%.
+•Reduced EC2 spending by 50%.
+•Reduced S3 costs by 70%.
+•Reduced RDS costs by 30%.
+•Client Name: Vaultedge
+Client Overview: Vaultedge, headquartered in Dallas, Texas, is a cuttingedge Document AI platform built on LLM architecture.
+Project Description:
+•Analyzed AWS cloud usage and spending across 3 different regionsfor
+the past 6 monthsto identify optimization opportunities.
+•Proposed to delete unused data from S3 buckets, which reduced S3 cost.
+•Set up automation using AWS Lambda and CloudWatch to assign life
+cycle policiesto new S3 buckets.
+•Identified and deleted unused EC2 instances and EBS volumes, which
+reduced compute and storage costs.
+•Modified S3 usage patterns and configuration to reduce S3 network costs.
+•Modified volume typesto improve performance.
+•As per usage purchased compute savings plansto reduce compute cost.
+•Proposed the use of a mix of on-demand and Spot instancesto further
+reduce compute costs.
+Key Results:
+•Reduced S3 costs by 95%.
+•Reduced compute costs by 50%.
+•Reduced storage costs by 25%.
+•Reduced S3 network costs by 90%.
+•Project: Cloud Infrastructure Automation
+Description: Implemented a cloud infrastructure automation solution
+using Git, Jenkins, Terraform, Ansible, and Kubernetes
+Project Description:
+•Set up a multi-branch Git repository with branching for development,
+testing, and production environments.
+•Deployed an EKS cluster with dynamic subnet creation.
+•Automated the deployment of infrastructure using Terraform and
+Ansible.
+•Integrated Jenkins with Git to create a continuousintegration and
+continuous delivery (CI/CD) pipeline.
+•Created an EKS dashboard and configured AWS AutoScaler.
+tejasa@epiqinfo.com 2 / 4
+Technical Support Engineer, ACTIOHX SOLUTIONS PVT. LTD.
+•Word Analyzer and Sentiment Analyzer
+11/2020 – 02/2022
+Pune, India
+•Did analysis of customer feedback along with primary and secondary
+market research to improve UI and customer experience.
+•Involved in developing company website.
+•Coordinating with clients, planning and managing team'stasks on daily
+basisto get optimal performance.
+•Auditing team's work and providing required suggestionsfor improving
+workflow.
+•Check and verify troubleshooting provided by L1.
+Deck Cadet, AURUS SHIP MANAGEMENT
+•Doing Navigation Watch.
+11/2014 – 09/2017
+Mumbai, India
+•Assist in maintaining Navigation charts, Life-Saving Appliances, and Fire
+Fighting Equipments.
+•Coordinating with international port authoritiesfor documentation.
+•Check and maintain inventory for onboard equipment.
+•Assist in preparing the ship for Port Inspection and Audit.
+•Prepare a checklist to complete work with safety and document it in ships
+record.
+Customer Service Associate, E-NXT FINANCIAL LIMITED
+•Communicating with customersthrough email.
+01/2014 – 06/2014
+Mumbai, India
+•Check and troubleshoot customer issuesin CRM.
+•Provide resolution within SLA.
