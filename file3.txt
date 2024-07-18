@@ -112,3 +112,18 @@ Customer Service Associate, E-NXT FINANCIAL LIMITED
 Mumbai, India
 •Check and troubleshoot customer issuesin CRM.
 •Provide resolution within SLA.
+
+
+
+
+
+
+
+
+
+
+Successfully leading significant DevOps projects that result in measurable improvements in deployment speed, reliability, and team productivity.
+Automated the deployment pipeline using Jenkins, reducing deployment times by 70% and eliminating manual errors.
+Implemented Infrastructure as Code (IAC) with tools like Terraform leading to a 50% reduction in provisioning time and ensuring consistency across environments.
+Optimized system performance by introducing containerization with Docker, improving application scalability.
+Migrating Python Microservices from Windows to a Linux Kubernetes Environment to Enhance Performance and Security.
